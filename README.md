@@ -1,112 +1,117 @@
 <h1 align="center">Hi 👋, I'm Jatin Nitin Hendre</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+Focused+Engineer;AI+%26+ML+Enthusiast;Cloud+%26+AWS+Learner;Problem+Solver&center=true&width=650" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Focused+Engineer;AI+%26+ML+Enthusiast;Cloud+%26+AWS+Learner;Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
 <h3 align="center">
-Computer Engineering Student | Full Stack Developer | AI/ML Enthusiast | Cloud Learner
+  Aspiring Software Developer | Full Stack Developer | AI/ML Enthusiast 
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/jatinhendre_2805/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  <a href="https://www.instagram.com/jatinhendre_2805/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:hendrejatinpay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-</p>
+
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinhendre&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=jatinhendre&label=Profile%20Views&color=0e75b6&style=flat" alt="jatinhendre" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 3rd Year **Computer Engineering** student at **Shah & Anchor Kutchhi Engineering College**
-- 💻 **Full Stack Developer** with strong backend orientation
-- ☁️ Completed **AWS Cloud Virtual Internship (AICTE)**
-- 🤖 **AI / ML Enthusiast** — currently learning fundamentals & practical implementation
-- 🧠 Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks**
-- 🌱 Currently learning **Advanced Backend, System Design & AI/ML**
-- 🧩 Passionate about building **impactful, scalable & recruiter-loved projects**
+- 🎓 3rd Year **Computer Engineering** student at **Shah & Anchor Kutchhi Engineering College**.
+- 💻 **Full Stack Developer** with a strong leaning towards **Backend Architecture**.
+- 🤖 **AI / ML Enthusiast** — currently bridging the gap between web apps and intelligent models.
+- 🧠 Strong foundation in **DSA, OOP, DBMS, OS, and Computer Networks**.
+- 🌱 Currently exploring **Advanced Microservices, System Design & NLP**.
+- 🧩 Passionate about building **impactful, scalable & recruiter-loved projects**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
----
+### 🌐 Frontend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
----
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### ☁️ Cloud, DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-### 🤖 AI / ML (Currently Learning)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔗 **Networx** – Social Media Networking Platform  
-  *JWT Authentication, Protected Routes, Posts, Comments, Likes, Connections*
-
-- 🔗 **Multi-Tenant Employee Onboarding SaaS**  
-  *Next.js, MongoDB, Role-based Access, Task Assignment*
-
-- 🔗 **AWS Cloud Internship Projects**  
-  *EC2, S3, IAM, Cloud Fundamentals*
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Networx** | A full-featured Social Media Platform. Features JWT Auth, Protected Routes, Posts, Comments, Likes, and Real-time Connections. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Employee SaaS** | A Multi-Tenant Onboarding SaaS application. Includes Role-based Access Control (RBAC), Task Assignments, and Dashboard analytics. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinhendre&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinhendre&theme=radical" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinhendre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinhendre&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+</div>
 
----
+<br/>
 
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhendre&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhendre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
 
 ---
 
-## ✍️ Dev Quote
+<div align="center">
+  
+  > *“First, solve the problem. Then, write the code.”* – John Johnson
 
-> *“First, solve the problem. Then, write the code.”* – John Johnson
+  <h3>⭐ If you find my projects helpful, please consider giving them a star!</h3>
 
----
-
-⭐ **If you like my work, consider starring my repositories!**
+</div>
