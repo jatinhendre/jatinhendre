@@ -98,15 +98,23 @@
 
 ## 📊 GitHub Stats
 
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatinhendre&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
+  
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinhendre&theme=tokyonight)](https://github.com/jatinhendre)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jatinhendre&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhendre&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<div align="center">
+  
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatinhendre&theme=tokyonight)](https://github.com/jatinhendre)
+
+</div>
 
 ---
 
