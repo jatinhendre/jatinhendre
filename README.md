@@ -128,7 +128,8 @@
 
 ## ✍️ Dev Quote
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> *"Good code solves today’s problems.
+Great architecture prevents tomorrow’s failures"* 
 
 ---
 
