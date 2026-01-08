@@ -104,8 +104,6 @@
   
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinhendre&theme=tokyonight)](https://github.com/jatinhendre)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jatinhendre&theme=radical&hide_border=true)
-
 </div>
 
 ---
