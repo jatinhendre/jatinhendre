@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jatin Nitin Hendre
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;Full+Stack+Developer;AI%2FML+Enthusiast&center=true&width=650&size=22&pause=1200" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;Full+Stack+Developer;AI%2FML+Enthusiast&center=true&width=650&size=22&pause=700" />
 </p>
 
 
