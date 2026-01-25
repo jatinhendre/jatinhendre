@@ -8,18 +8,17 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year **Computer Engineering** student at **Shah & Anchor Kutchhi Engineering College**
-- 💻 **Full Stack Developer** with strong backend orientation
-- 🤖 **AI/ML Enthusiast** — exploring fundamentals & practical implementations
-- 🧠 Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks**
-- 🌱 Currently learning **Advanced Backend Architecture, System Design & Machine Learning**
-- 🧩 Passionate about building **scalable, production-ready solutions**
+-  3rd Year **Computer Engineering** student at **Shah & Anchor Kutchhi Engineering College**
+-  **Full Stack Developer** with strong backend orientation
+-  **AI/ML Enthusiast** — exploring fundamentals & practical implementations
+-  Currently learning **Advanced Backend Architecture, System Design & Machine Learning**
+-  Passionate about building **scalable, production-ready solutions**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming Languages
+###  Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -29,7 +28,7 @@
 
 ---
 
-### 🌐 Web Development
+###  Web Development
 
 **Frontend:**
 
@@ -48,14 +47,14 @@
 
 ---
 
-### 🗄️ Databases
+###  Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### ☁️ Cloud, DevOps & Tools
+###  Cloud, DevOps & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -66,7 +65,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔗 **Networx** – Social Media Networking Platform
 *A full-featured social networking platform with real-time interactions*
@@ -74,12 +73,12 @@
 **Tech Stack:** Node.js, Express.js, MongoDB, JWT Authentication
 
 **Features:**
-- 🔐 Secure JWT-based authentication with protected routes
-- 📝 Create, edit, and delete posts with rich media support
-- 💬 Real-time commenting and nested replies
-- ❤️ Like/unlike functionality with instant updates
-- 🤝 Send, accept, and manage connection requests
-- 👤 User profiles with customizable information
+-  Secure JWT-based authentication with protected routes
+-  Create, edit, and delete posts with rich media support
+-  Real-time commenting and nested replies
+-  Like/unlike functionality with instant updates
+-  Send, accept, and manage connection requests
+-  User profiles with customizable information
 
 ---
 
@@ -89,16 +88,16 @@
 **Tech Stack:** Next.js, MongoDB, TypeScript, Tailwind CSS
 
 **Features:**
-- 🏢 Multi-tenant architecture with isolated data
-- 👥 Role-based access control (Admin, Manager, Employee)
-- ✅ Automated task assignment and tracking
-- 📊 Dashboard with analytics and progress monitoring
-- 📧 Email notifications and reminders
-- 🔄 Customizable onboarding workflows
+-  Multi-tenant architecture with isolated data
+-  Role-based access control (Admin, Manager, Employee)
+-  Automated task assignment and tracking
+-  Dashboard with analytics and progress monitoring
+-  Email notifications and reminders
+-  Customizable onboarding workflows
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -108,7 +107,7 @@
 
 ---
 
-## 🔥 Top Languages
+##  Top Languages
 
 <div align="center">
   
@@ -118,7 +117,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
@@ -126,18 +125,18 @@
 
 ---
 
-## ✍️ Dev Quote
+##  Dev Quote
 
-> *"Good code solves today’s problems.
+> *"
 Great architecture prevents tomorrow’s failures"* 
 
 ---
 
-## 💡 Current Focus
+##  Current Focus
 
-- 🔭 Working on advanced backend architecture patterns
-- 📚 Learning System Design and Microservices
-- 🧪 Experimenting with Machine Learning models
+-  Working on advanced backend architecture patterns
+-  Learning System Design and Microservices
+-  Experimenting with Machine Learning models
 
 ---
 
