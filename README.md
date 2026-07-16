@@ -1,30 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jatin%20Nitin%20Hendre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:9333EA&height=220&section=header&text=Jatin%20Nitin%20Hendre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Full+Stack+Engineer;AI%2FML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
-
-<br/>
-
-![Education](https://img.shields.io/badge/B.E.-Computer_Engineering-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Final_Year_Student-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Mumbai%2C_India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Full+Stack+Engineer;AI%2FML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jatinhendre)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
-[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrejatinpay@gmail.com)
+![Education](https://img.shields.io/badge/B.E.-Computer_Engineering-4C1D95?style=flat-square&logo=googlescholar&logoColor=E9D5FF&labelColor=1E1B4B)
+![Status](https://img.shields.io/badge/Status-Final_Year_Student-5B21B6?style=flat-square&logo=graduation-cap&logoColor=E9D5FF&labelColor=1E1B4B)
+![Location](https://img.shields.io/badge/Location-Mumbai_India-6D28D9?style=flat-square&logo=mapbox&logoColor=E9D5FF&labelColor=1E1B4B)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jatinhendre&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/jatinhendre?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/jatinhendre?style=for-the-badge&color=6d28d9&label=STARS&logo=github)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jatinhendre.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-hendre-25735628b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrejatinpay@gmail.com)
 
-</div>
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=jatinhendre&color=9333EA&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/jatinhendre?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github&logoColor=white&labelColor=1E1B4B)
+![Stars](https://img.shields.io/github/stars/jatinhendre?style=flat-square&color=6D28D9&label=STARS&logo=github&logoColor=white&labelColor=1E1B4B)
 ---
 
 ## 🧠 About Me
@@ -236,11 +233,10 @@ open_to:
 ## 📫 Connect
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-hendrejatinpay%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrejatinpay@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jatin_Hendre-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-hendre-25735628b)
-[![GitHub](https://img.shields.io/badge/GitHub-jatinhendre-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://jatinhendre.dev/)
+[![Gmail](https://img.shields.io/badge/hendrejatinpay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrejatinpay@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Jatin_Hendre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/)
+[![GitHub](https://img.shields.io/badge/jatinhendre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
+[![Portfolio](https://img.shields.io/badge/View_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jatinhendre)
 
 </div>
 
@@ -250,6 +246,5 @@ open_to:
 
 *"Great architecture prevents tomorrow's failures."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:5B21B6,100:1E1B4B&height=120&section=footer" width="100%"/>
 </div>
