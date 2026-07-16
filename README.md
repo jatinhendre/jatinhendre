@@ -167,44 +167,6 @@ An enterprise-grade SaaS platform built to streamline employee onboarding across
 
 </details>
 
----
-
-## 🏆 Achievements
-
-> _Template — fill in with verified recognitions, hackathon wins, or publications._
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| [Achievement Title] | [Context, date, and organizing body] |
-| [Achievement Title] | [Context, date, and organizing body] |
-
-</div>
-
----
-
-## 📜 Certifications
-
-> _Template — replace with your actual issued certifications._
-
-**AWS**
-
-![AWS Certified](https://img.shields.io/badge/AWS-Certification_Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certification_Name-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL Certified](https://img.shields.io/badge/NPTEL-Course_Name-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Certified](https://img.shields.io/badge/Cisco-Certification_Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
 
 ## 💻 Coding Profiles
 
@@ -212,11 +174,7 @@ An enterprise-grade SaaS platform built to streamline employee onboarding across
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-your--handle-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-your--handle-A78BFA?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jatin2805hendre)
 </div>
 
 ---
@@ -234,15 +192,6 @@ An enterprise-grade SaaS platform built to streamline employee onboarding across
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jatinhendre&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -289,9 +238,9 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-hendrejatinpay%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrejatinpay@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jatin_Hendre-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jatin_Hendre-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-hendre-25735628b)
 [![GitHub](https://img.shields.io/badge/GitHub-jatinhendre-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jatinhendre)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://jatinhendre.dev/)
 
 </div>
 
