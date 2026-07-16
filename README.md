@@ -229,19 +229,29 @@ open_to:
 ```
 
 ---
-
 ## 📫 Connect
 
 <div align="center">
-[![Gmail](https://img.shields.io/badge/hendrejatinpay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrejatinpay@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Jatin_Hendre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/)
-[![GitHub](https://img.shields.io/badge/jatinhendre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
-[![Portfolio](https://img.shields.io/badge/View_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jatinhendre)
+
+<a href="mailto:hendrejatinpay@gmail.com">
+  <img src="https://img.shields.io/badge/hendrejatinpay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/">
+  <img src="https://img.shields.io/badge/Jatin_Hendre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/jatinhendre">
+  <img src="https://img.shields.io/badge/jatinhendre-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://jatinhendre.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
 ---
-
 <div align="center">
 
 *"Great architecture prevents tomorrow's failures."*
