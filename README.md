@@ -187,7 +187,7 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 ## 💼 Experience
 
 <details open>
-<summary><h3>🏢 Software Development Engineer Intern • DeepCytes Cyber Labs (UK)</h3></summary>
+<summary><h3>🏢 SDE Intern • DeepCytes Cyber Labs (UK)</h3></summary>
 
 <br/>
 
@@ -206,7 +206,7 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 
 | 📌 Overview | |
 |------------|---|
-| **Role** | Software Development Engineer Intern |
+| **Role** | SDE Intern |
 | **Company** | DeepCytes Cyber Labs (UK) |
 | **Duration** | 2026 – Present |
 | **Domain** | Cybersecurity • Enterprise Software |
