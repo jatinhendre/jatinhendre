@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:9333EA&height=220&section=header&text=Jatin%20Nitin%20Hendre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%Development%Engineer%20%7C%20AI%%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:9333EA&height=220&section=header&text=Jatin%20Nitin%20Hendre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Full+Stack+Engineer;AI%2FML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
+
 <div align="center">
 
 | 🎓 Education | 🎯 Status | 📍 Location |
@@ -12,53 +13,30 @@
 | ![Education](https://img.shields.io/badge/B.Tech-Computer_Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white) | ![Status](https://img.shields.io/badge/Final_Year-Student-5B21B6?style=for-the-badge) | ![Location](https://img.shields.io/badge/Mumbai-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white) |
 
 </div>
+
 <br/>
 
-<div align="center">
-
-<a href="https://jatinhendre.dev">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/jatin-hendre-25735628b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/jatinhendre">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:hendrejatinpay@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+<table align="center">
+<tr>
+<td align="center"><a href="https://jatinhendre.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" /></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/jatin-hendre-25735628b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+<td align="center"><a href="https://github.com/jatinhendre"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+<td align="center"><a href="mailto:hendrejatinpay@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=jatinhendre&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
-
 &nbsp;&nbsp;
-
 <img src="https://img.shields.io/github/followers/jatinhendre?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED"/>
-
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/jatin2805hendre">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=jatin2805hendre&theme=dark&border=border&animated=true"/>
-</a>
 
 </div>
 
 ---
+
 ## 🧠 About Me
 
 ```yaml
@@ -80,6 +58,7 @@ open_to:
 I'm a final-year Computer Engineering student who builds software with a strong backend orientation and an emphasis on scalability, security, and production-readiness. I care about architecture decisions that hold up under real-world load, and I enjoy pairing solid engineering fundamentals with applied AI/ML to ship products rather than prototypes.
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -122,7 +101,6 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 `REST APIs` · `JWT Authentication` · `CI/CD` · `Syft` · `Grype`
 
 </div>
-
 
 ## 📌 Featured Projects
 
@@ -205,6 +183,7 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 </details>
 
 ---
+
 ## 💼 Experience
 
 <details open>
@@ -257,28 +236,20 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 
 ---
 
-
 ## 💻 Coding Profiles
 
-> _Template — link these once your real handles are confirmed._
-## 💻 Coding Profiles
+<table align="center">
+<tr>
+<td align="center"><a href="https://leetcode.com/u/jatin2805hendre"><img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/jatinhendre"><img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github"/></a></td>
+<td align="center"><a href="https://www.geeksforgeeks.org/profile/hendrejacehx"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a></td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://leetcode.com/u/jatin2805hendre">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/jatinhendre">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/user/your_username/](https://www.geeksforgeeks.org/profile/hendrejacehx">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://leetcard.jacoblin.cool/jatin2805hendre?theme=dark&font=Karla&ext=heatmap" width="500"/>
 </a>
 
 </div>
@@ -297,7 +268,6 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 </div>
 
 ---
-
 
 ## 📈 Contribution Activity
 
@@ -336,31 +306,24 @@ open_to:
   - AI/ML collaboration opportunities
   - Open source contributions
 ```
+
 ## 📫 Connect
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center"><a href="https://jatinhendre.github.io"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge"/></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a></td>
+<td align="center"><a href="https://github.com/jatinhendre"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a></td>
+<td align="center"><a href="mailto:hendrejatinpay@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a></td>
+</tr>
+</table>
 
-<a href="https://jatinhendre.github.io">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/jatinhendre">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:hendrejatinpay@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
 ---
+
 <div align="center">
 
 *"Great architecture prevents tomorrow's failures."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:5B21B6,100:1E1B4B&height=120&section=footer" width="100%"/>
+
 </div>
