@@ -1,39 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:9333EA&height=220&section=header&text=Jatin%20Nitin%20Hendre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:9333EA&height=220&section=header&text=Jatin%20Nitin%20Hendre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%Development%Engineer%20%7C%20AI%%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Full+Stack+Engineer;AI%2FML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
+<div align="center">
 
-![Education](https://img.shields.io/badge/B.E.-Computer_Engineering-4C1D95?style=flat-square&logo=googlescholar&logoColor=E9D5FF&labelColor=1E1B4B)
-![Status](https://img.shields.io/badge/Status-Final_Year_Student-5B21B6?style=flat-square&logo=graduation-cap&logoColor=E9D5FF&labelColor=1E1B4B)
-![Location](https://img.shields.io/badge/Location-Mumbai_India-6D28D9?style=flat-square&logo=mapbox&logoColor=E9D5FF&labelColor=1E1B4B)
+| 🎓 Education | 🎯 Status | 📍 Location |
+|:------------:|:---------:|:-----------:|
+| ![Education](https://img.shields.io/badge/B.Tech-Computer_Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white) | ![Status](https://img.shields.io/badge/Final_Year-Student-5B21B6?style=for-the-badge) | ![Location](https://img.shields.io/badge/Mumbai-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white) |
+
+</div>
+<br/>
+
+<div align="center">
+
+<a href="https://jatinhendre.dev">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/jatin-hendre-25735628b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/jatinhendre">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:hendrejatinpay@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jatinhendre.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-hendre-25735628b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhendre)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrejatinpay@gmail.com)
+<div align="center">
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=jatinhendre&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jatinhendre&color=9333EA&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/jatinhendre?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github&logoColor=white&labelColor=1E1B4B)
-![Stars](https://img.shields.io/github/stars/jatinhendre?style=flat-square&color=6D28D9&label=STARS&logo=github&logoColor=white&labelColor=1E1B4B)
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/github/followers/jatinhendre?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED"/>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/jatin2805hendre">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=jatin2805hendre&theme=dark&border=border&animated=true"/>
+</a>
+
+</div>
+
 ---
-
 ## 🧠 About Me
 
 ```yaml
 name: "Jatin Nitin Hendre"
 role: "Software Engineer · AI/ML Enthusiast · Full Stack Developer"
-education: "B.E. Computer Engineering, Shah & Anchor Kutchhi Engineering College (Final Year)"
+education: "B.Tech. Computer Engineering, Shah & Anchor Kutchhi Engineering College (Final Year)"
 focus:
   - Designing scalable, production-grade backend systems
   - Building full stack products with clean architecture
-  - Applying AI/ML fundamentals to practical, real-world problems
+  - Applying AI fundamentals to practical, real-world problems
   - Engineering with a product-first, user-centric mindset
 open_to:
   - Software Engineering roles (SDE / Full Stack)
@@ -45,133 +80,207 @@ open_to:
 I'm a final-year Computer Engineering student who builds software with a strong backend orientation and an emphasis on scalability, security, and production-readiness. I care about architecture decisions that hold up under real-world load, and I enjoy pairing solid engineering fundamentals with applied AI/ML to ship products rather than prototypes.
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=py)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Redux](https://skillicons.dev/icons?i=redux)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Django](https://skillicons.dev/icons?i=django)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
 
-**Cloud, DevOps & Tooling**
+**DevOps & Tools**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
-`Swagger` · `Syft` · `Grype` · `REST API` · `JWT Auth` · `Highcharts` · `D3.js`
-
-</div>
-
----
-
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning Fundamentals | ⭐⭐⭐☆☆ | Core algorithms, model evaluation, supervised & unsupervised learning |
-| Data Preprocessing & Analysis | ⭐⭐⭐⭐☆ | Cleaning, feature engineering, exploratory data analysis |
-| Applied AI Integration | ⭐⭐⭐☆☆ | Integrating ML/AI models into full stack applications |
-| Deep Learning Basics | ⭐⭐☆☆☆ | Neural network fundamentals, hands-on experimentation |
+`REST APIs` · `JWT Authentication` · `CI/CD` · `Syft` · `Grype`
 
 </div>
 
-> *Actively deepening this track — treat proficiency levels as a living snapshot, not a ceiling.*
-
----
 
 ## 📌 Featured Projects
 
-<details>
-<summary><b>🔗 Networx — Social Media Networking Platform</b></summary>
+<details open>
+<summary><h3>🌐 Networx — Social Networking Platform</h3></summary>
+
 <br/>
 
-A full-featured social networking platform enabling real-time interactions, secure authentication, and rich social features end-to-end.
+> A full-stack social networking platform enabling users to connect, communicate, and interact in real time through secure authentication, instant messaging, and scalable backend architecture.
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Node.js, Express.js, MongoDB, JWT Authentication |
-| **Scale** | Multi-user social graph with real-time interaction layer |
-| **Performance** | Instant like/unlike updates, low-latency chat delivery |
-| **Security** | JWT-based auth with protected route middleware |
-| **Impact** | Full social lifecycle — connect, post, chat, and engage |
-| **Repository** | [github.com/jatinhendre](https://github.com/jatinhendre) |
+<div align="center">
 
-**Key Features**
-- 🔐 Secure JWT-based authentication with protected routes
-- 📝 Create, edit, and delete posts with rich media support
-- 💬 Real-time chat and notification system
-- ❤️ Like/unlike functionality with instant UI updates
-- 🤝 Send, accept, and manage connection requests
-- 👤 Customizable, editable user profiles
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
 
-</details>
+</div>
 
-<details>
-<summary><b>🔗 Multi-Tenant Employee Onboarding SaaS</b></summary>
-<br/>
+| 🚀 Highlights | |
+|---------------|---|
+| **Architecture** | Full-stack MERN application |
+| **Authentication** | JWT-based secure authentication |
+| **Real-time** | WebSocket chat & notifications |
+| **Scalability** | Redis Pub/Sub for distributed event synchronization |
+| **Database** | MongoDB with REST APIs |
+| **Repository** | [View Project](https://github.com/jatinhendre) |
 
-An enterprise-grade SaaS platform built to streamline employee onboarding across multiple isolated organizations.
+### ✨ Key Features
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Next.js, MongoDB, TypeScript, Tailwind CSS |
-| **Scale** | Multi-tenant architecture with isolated per-tenant data |
-| **Performance** | Dashboard-driven analytics with real-time progress tracking |
-| **Security** | Role-based access control (Admin, Manager, Employee) |
-| **Impact** | Automates onboarding workflows end-to-end for organizations |
-| **Repository** | [github.com/jatinhendre](https://github.com/jatinhendre) |
-
-**Key Features**
-- 🏢 Multi-tenant architecture with isolated data per organization
-- 🔑 Role-based access control across three permission tiers
-- ✅ Automated task assignment and progress tracking
-- 📊 Analytics dashboard with real-time monitoring
-- 📧 Automated email notifications and reminders
-- ⚙️ Fully customizable onboarding workflows
+- 🔐 Secure JWT Authentication
+- 👥 User Profiles & Connection Requests
+- 📝 Create, Edit & Delete Posts
+- ❤️ Likes & Comments
+- 💬 Real-time Chat using WebSockets
+- 🔔 Instant Notifications
+- ⚡ Redis Pub/Sub for scalable event synchronization
 
 </details>
 
 ---
 
-## 💼 Experience
+<details open>
+<summary><h3>🏢 Multi-Tenant Employee Management SaaS</h3></summary>
 
-> _The section below is a template — replace each entry with your real roles, dates, and responsibilities._
-
-<details>
-<summary><b>🏢 [Job Title] — [Company Name]</b></summary>
 <br/>
 
-**Duration:** [Month Year] – [Month Year]
+> An enterprise-grade multi-tenant SaaS platform that enables organizations to securely onboard and manage employees using isolated tenant architecture and role-based access control.
 
-[One to two sentence professional description of the role and its context.]
+<div align="center">
 
-**Scope of Work**
-- [Responsibility or contribution one]
-- [Responsibility or contribution two]
-- [Responsibility or contribution three]
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Skills:** `[Skill]` `[Skill]` `[Skill]` `[Skill]`
+</div>
+
+| 🏗 Highlights | |
+|--------------|---|
+| **Architecture** | Multi-tenant SaaS Platform |
+| **Isolation** | Database-per-tenant architecture |
+| **Security** | JWT Authentication & RBAC |
+| **Roles** | SuperAdmin, Company Admin & Employee |
+| **Automation** | Approval emails with Nodemailer |
+| **Repository** | [View Project](https://github.com/jatinhendre) |
+
+### ✨ Key Features
+
+- 🏢 Multi-tenant Architecture
+- 🔐 JWT Authentication
+- 👥 Role-Based Access Control (RBAC)
+- 📧 Automated Approval Emails
+- 🗄 Database-per-Tenant Isolation
+- ⚙ Built with TypeScript for safer development
 
 </details>
+
+---
+## 💼 Experience
+
+<details open>
+<summary><h3>🏢 Software Development Engineer Intern • DeepCytes Cyber Labs (UK)</h3></summary>
+
+<br/>
+
+> Building enterprise-grade cybersecurity solutions with a focus on scalable backend systems, performance optimization, frontend engineering, and secure software architecture.
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+| 📌 Overview | |
+|------------|---|
+| **Role** | Software Development Engineer Intern |
+| **Company** | DeepCytes Cyber Labs (UK) |
+| **Duration** | 2026 – Present |
+| **Domain** | Cybersecurity • Enterprise Software |
+| **Focus Areas** | Full Stack Development, Backend Engineering, Security, Performance Optimization |
+
+---
+
+### 🚀 Key Contributions
+
+- ⚡ Improved UI responsiveness by approximately **30%** through reusable React components.
+- 🚀 Reduced backend API response times by **50–60%** using query optimization and caching strategies.
+- 📄 Automated **SBOM generation** and enterprise PDF reporting using **GitHub Actions, Syft, Grype, and CI/CD**.
+- 🏗️ Refactored the application into reusable modules, reducing code complexity and overall LOC by **~20%**.
+- 🔐 Implemented enterprise security features including **Role-Based Access Control (RBAC)**, **Multi-Factor Authentication (MFA)**, **Asynchronous Activity Logging**, and **SSL/TLS Certificate Pinning**.
+
+---
+
+### 🛠️ Technologies
+
+<div align="center">
+
+`React.js` • `Next.js` • `Node.js` • `MongoDB` • `GitHub Actions` • `Docker` • `Syft` • `Grype` • `CI/CD` • `REST APIs`
+
+</div>
+
+</details>
+
+---
 
 
 ## 💻 Coding Profiles
 
 > _Template — link these once your real handles are confirmed._
+## 💻 Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jatin2805hendre)
+<a href="https://leetcode.com/u/jatin2805hendre">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/jatinhendre">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/user/your_username/](https://www.geeksforgeeks.org/profile/hendrejacehx">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -227,30 +336,27 @@ open_to:
   - AI/ML collaboration opportunities
   - Open source contributions
 ```
-
----
 ## 📫 Connect
 
 <div align="center">
 
-<a href="mailto:hendrejatinpay@gmail.com">
-  <img src="https://img.shields.io/badge/hendrejatinpay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/">
-  <img src="https://img.shields.io/badge/Jatin_Hendre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/jatinhendre">
-  <img src="https://img.shields.io/badge/jatinhendre-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://jatinhendre.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jatin-nitin-hendre-25735628b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/jatinhendre">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hendrejatinpay@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
-
 ---
 <div align="center">
 
