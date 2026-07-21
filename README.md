@@ -249,7 +249,7 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 <div align="center">
 
 <a href="https://leetcode.com/u/jatinhendre">
-<img src="https://leetcard.jacoblin.cool/jatin2805hendre?theme=dark&font=Karla&ext=heatmap" width="500"/>
+<img src="https://leetcard.jacoblin.cool/jatinhendre?theme=dark&font=Karla&ext=heatmap" width="500"/>
 </a>
 
 </div>
