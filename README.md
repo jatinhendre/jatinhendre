@@ -240,7 +240,7 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://leetcode.com/u/jatin2805hendre"><img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a></td>
+<td align="center"><a href="https://leetcode.com/u/jatinhendre"><img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a></td>
 <td align="center"><a href="https://github.com/jatinhendre"><img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github"/></a></td>
 <td align="center"><a href="https://www.geeksforgeeks.org/profile/hendrejacehx"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a></td>
 </tr>
@@ -248,7 +248,7 @@ I'm a final-year Computer Engineering student who builds software with a strong 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/jatin2805hendre">
+<a href="https://leetcode.com/u/jatinhendre">
 <img src="https://leetcard.jacoblin.cool/jatin2805hendre?theme=dark&font=Karla&ext=heatmap" width="500"/>
 </a>
 
